@@ -1,0 +1,13 @@
+D:\system\VS2017\EmployeeShiftManagment\EmployeeShiftManagment\bin\Debug\EmployeeShiftManagment.exe.config
+D:\system\VS2017\EmployeeShiftManagment\EmployeeShiftManagment\bin\Debug\EmployeeShiftManagment.exe
+D:\system\VS2017\EmployeeShiftManagment\EmployeeShiftManagment\bin\Debug\EmployeeShiftManagment.pdb
+D:\system\VS2017\EmployeeShiftManagment\EmployeeShiftManagment\obj\Debug\EmployeeShiftManagment.csprojAssemblyReference.cache
+D:\system\VS2017\EmployeeShiftManagment\EmployeeShiftManagment\obj\Debug\EmployeeShiftManagment.mainForm.resources
+D:\system\VS2017\EmployeeShiftManagment\EmployeeShiftManagment\obj\Debug\EmployeeShiftManagment.Properties.Resources.resources
+D:\system\VS2017\EmployeeShiftManagment\EmployeeShiftManagment\obj\Debug\EmployeeShiftManagment.csproj.GenerateResource.cache
+D:\system\VS2017\EmployeeShiftManagment\EmployeeShiftManagment\obj\Debug\EmployeeShiftManagment.csproj.CoreCompileInputs.cache
+D:\system\VS2017\EmployeeShiftManagment\EmployeeShiftManagment\obj\Debug\EmployeeShiftManagment.exe
+D:\system\VS2017\EmployeeShiftManagment\EmployeeShiftManagment\obj\Debug\EmployeeShiftManagment.pdb
+D:\system\VS2017\EmployeeShiftManagment\EmployeeShiftManagment\obj\Debug\EmployeeShiftManagment.mainForm.aa.resources
+D:\system\VS2017\EmployeeShiftManagment\EmployeeShiftManagment\bin\Debug\aa\EmployeeShiftManagment.resources.dll
+D:\system\VS2017\EmployeeShiftManagment\EmployeeShiftManagment\obj\Debug\aa\EmployeeShiftManagment.resources.dll
