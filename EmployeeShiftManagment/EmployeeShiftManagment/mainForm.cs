@@ -12,6 +12,7 @@ namespace EmployeeShiftManagment
 {
     public partial class mainForm : Form
     {
+        private string noonsense = "";
         public mainForm()
         {
             InitializeComponent();

@@ -11,3 +11,13 @@ D:\system\VS2017\EmployeeShiftManagment\EmployeeShiftManagment\obj\Debug\Employe
 D:\system\VS2017\EmployeeShiftManagment\EmployeeShiftManagment\obj\Debug\EmployeeShiftManagment.mainForm.aa.resources
 D:\system\VS2017\EmployeeShiftManagment\EmployeeShiftManagment\bin\Debug\aa\EmployeeShiftManagment.resources.dll
 D:\system\VS2017\EmployeeShiftManagment\EmployeeShiftManagment\obj\Debug\aa\EmployeeShiftManagment.resources.dll
+C:\Users\marti\Documents\GitHub\EmployeeShiftmanagment\EmployeeShiftManagment\EmployeeShiftManagment\bin\Debug\EmployeeShiftManagment.exe.config
+C:\Users\marti\Documents\GitHub\EmployeeShiftmanagment\EmployeeShiftManagment\EmployeeShiftManagment\bin\Debug\EmployeeShiftManagment.exe
+C:\Users\marti\Documents\GitHub\EmployeeShiftmanagment\EmployeeShiftManagment\EmployeeShiftManagment\bin\Debug\EmployeeShiftManagment.pdb
+C:\Users\marti\Documents\GitHub\EmployeeShiftmanagment\EmployeeShiftManagment\EmployeeShiftManagment\obj\Debug\EmployeeShiftManagment.csprojAssemblyReference.cache
+C:\Users\marti\Documents\GitHub\EmployeeShiftmanagment\EmployeeShiftManagment\EmployeeShiftManagment\obj\Debug\EmployeeShiftManagment.mainForm.resources
+C:\Users\marti\Documents\GitHub\EmployeeShiftmanagment\EmployeeShiftManagment\EmployeeShiftManagment\obj\Debug\EmployeeShiftManagment.Properties.Resources.resources
+C:\Users\marti\Documents\GitHub\EmployeeShiftmanagment\EmployeeShiftManagment\EmployeeShiftManagment\obj\Debug\EmployeeShiftManagment.csproj.GenerateResource.cache
+C:\Users\marti\Documents\GitHub\EmployeeShiftmanagment\EmployeeShiftManagment\EmployeeShiftManagment\obj\Debug\EmployeeShiftManagment.csproj.CoreCompileInputs.cache
+C:\Users\marti\Documents\GitHub\EmployeeShiftmanagment\EmployeeShiftManagment\EmployeeShiftManagment\obj\Debug\EmployeeShiftManagment.exe
+C:\Users\marti\Documents\GitHub\EmployeeShiftmanagment\EmployeeShiftManagment\EmployeeShiftManagment\obj\Debug\EmployeeShiftManagment.pdb
